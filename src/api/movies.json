@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "TheFlash",
+      "rating": 8.3,
+      "overview": "this is a wider card with supportive",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4bTShLVFnVKK31cowgjdAIZV84T.jpg"
+    },
+    {
+      "id": 2,
+      "name": "George And Son",
+      "rating": 8.5,
+      "overview": "this is a wider card with supportive",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/340AAxjvtGXChWkqhIlScZTSokq.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Disney For Child",
+      "rating": 9.3,
+      "overview": "this is a wider card with supportive",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zNxqXCEEBllgbVOCuHLPasNsovt.jpg"
+    },
+    {
+      "name": "Finding Ohanax",
+      "rating": 8.3,
+      "overview": "this is a wider card with supportive",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg",
+      "id": 4
+    },
+    {
+      "name": "2.film",
+      "rating": "3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94A51Euq4dz7YvWVwp470H0ZxKX.jpg",
+      "overview": "sssssssssssssssssss",
+      "id": 5
+    },
+    {
+      "name": "Tuğçe Kırteke",
+      "rating": "5.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94A51Euq4dz7YvWVwp470H0ZxKX.jpg",
+      "overview": "kkkk",
+      "id": 6
+    }
+  ]
+}
